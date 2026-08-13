@@ -1,7 +1,7 @@
 <div align="center">
 
 # - Harshh ! 
- Web Dev Learner & Discord Bot Developer  
+# Web Dev Learner & Discord Bot Developer  
 <br>
 Currently Pursuing Btech A.I  
 <br>
